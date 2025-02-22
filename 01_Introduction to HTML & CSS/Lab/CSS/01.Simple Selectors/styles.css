@@ -1,0 +1,31 @@
+h1 {
+    color: yellow;
+}
+
+p {
+    font-size: 25px;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+#main-title {
+    color: green;
+}
+
+#special-paragraph {
+    font-style: italic;
+}
+
+li {
+    color: red;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+div {
+    background-color: green;
+}
